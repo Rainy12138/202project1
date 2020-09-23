@@ -25,7 +25,7 @@
 #PSP表格
 #排版
 #其他
-
+#其他
 核心需求：
 （1）目前基本只有国外网站可以获取顶会论文，用户希望可以拥有一个中文平台，解决阅读障碍；（ICCV: http://www.informatik.uni-trier.de/~ley/db/conf/iccv/index.html）
 （2）用户希望该平台无论是在手机端或者电脑端，都可以较方便的使用；
